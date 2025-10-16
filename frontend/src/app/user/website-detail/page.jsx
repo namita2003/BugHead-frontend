@@ -15,6 +15,7 @@ import {
     X,
 } from "lucide-react";
 import { motion } from "framer-motion";
+export const dynamic = "force-dynamic"; 
 
 // Card animation variants
 const cardVariants = {
